@@ -12,7 +12,7 @@
   "main": "./index.js",
   "preferGlobal": true,
   "dependencies": {
-    "colors": "^1.0.3",
+    "colors": "^1.2.2",
     "diff": "^1.2.1",
     "promise": "^7.1.1",
     "webpack": "^4.1.0",
