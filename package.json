@@ -13,8 +13,9 @@
   "preferGlobal": true,
   "dependencies": {
     "colors": "^1.0.3",
-    "promise": "^7.1.1",
     "diff": "^1.2.1",
+    "promise": "^7.1.1",
+    "webpack": "^4.1.0",
     "workshopper-adventure": "^6.0.3"
   },
   "license": "MIT"
